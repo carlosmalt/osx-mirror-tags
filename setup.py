@@ -6,7 +6,7 @@ setup(
     name='osx-mirror-tags',
     version='0.1',
     packages=['osx_mirror_tags'],
-    description='Module to mirror OS X Finder tags on mirrored directory trees',
+    description='Module to mirror OS X Finder tags from a directory tree to a mirrored directory tree',
     classifiers=[
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 3',
