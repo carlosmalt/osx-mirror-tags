@@ -5,7 +5,7 @@ Mirror Finder tags in OS X from src directory tree to dst directory tree (assumi
 
 *Installation:* Requires a Python installation that allows adding new modules
 
-`./setup.py`
+`./setup.py install`
 
 *Command line use:* Create a symbolic link to `osx_mirror_tags/__init__.py` using a name of your choice. Then run that name as command with source and destination paths as arguments. Use absolute paths.
 
