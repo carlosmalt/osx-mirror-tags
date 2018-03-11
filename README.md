@@ -3,7 +3,7 @@ osx_mirror_tags
 
 Mirror Finder tags in OS X from src directory tree to dst directory tree (assuming all paths in src also exist in dst). 
 
-*Installation:* Requires a Python installation that allows adding new modules
+*Installation:* Requires a Python installation that allows adding new modules. Also requires the osx_tags module (https://github.com/scooby/osx-tags). 
 
 `./setup.py install`
 
