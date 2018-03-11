@@ -14,8 +14,9 @@ setup(
     install_requires=[
         'biplist',
         'xattr',
+        'osx_tags',
     ],
     license='MIT',
-    url='https://github.com/scooby/osx-mirror-tags',
+    url='https://github.com/carlosmalt/osx-mirror-tags',
     zip_safe=True
 )
